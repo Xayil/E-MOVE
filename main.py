@@ -1,6 +1,6 @@
 import requests
 
-params = {"words": 10, "paragraphs": 1, "format": "json"}
+params = {"wordssss": 10, "paragraphs": 1, "format": "json"}
 
 response = requests.get(f"https://alexnormand-dino-ipsum.p.rapidapi.com/", params=params,
  headers={
